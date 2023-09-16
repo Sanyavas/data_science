@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.pinimg.com/564x/a4/c6/ef/a4c6ef361a0e4176e8038d9f36d6b1ab.jpg"/> </p> 
+<p align="center"> <img src="https://i.pinimg.com/564x/52/df/b1/52dfb1d60b6274d42066bfd59306ee67.jpg"/> </p> 
 
 <h1 align="center"> DATA SCIENCE </h1>
 
