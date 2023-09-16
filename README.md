@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://i.pinimg.com/564x/a4/c6/ef/a4c6ef361a0e4176e8038d9f36d6b1ab.jpg"/> </p> 
+
 # data_science
 
 ### ⚡ Technologies ⚡:
