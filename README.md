@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://i.pinimg.com/564x/a4/c6/ef/a4c6ef361a0e4176e8038d9f36d6b1ab.jpg"/> </p> 
 
-<p align="center"> DATA SCIENCE </p>
+<h1 align="center"> DATA SCIENCE </h1>
 
 ### ⚡ Technologies ⚡:
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
